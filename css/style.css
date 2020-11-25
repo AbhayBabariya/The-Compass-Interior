@@ -22497,6 +22497,10 @@ a.active {
     padding-bottom: 30px;
 }
 
+.disk li {
+    list-style: disc;
+}
+
 
 /* Static Whatsapp CSS */
 
