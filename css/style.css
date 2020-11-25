@@ -17670,8 +17670,8 @@ label.error {
 .portbox1 .overlay-bx .lightimg {
     background: #a6611c;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: -20px;
+    right: -20px;
     width: 50px;
     height: 50px;
     line-height: 50px;
@@ -22530,6 +22530,9 @@ a.active {
 /* for mobile */
 
 @media screen and (max-width: 767px) {
+    .whatsapp-icon {
+        margin-top: 10px;
+    }
     .whatsapp_float {
         width: 50px;
         height: 50px;
