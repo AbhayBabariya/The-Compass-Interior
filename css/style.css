@@ -22501,6 +22501,10 @@ a.active {
     list-style: disc;
 }
 
+.bg-img {
+    background-image: url("../images/background/bg1.jpg");
+}
+
 
 /* Static Whatsapp CSS */
 
