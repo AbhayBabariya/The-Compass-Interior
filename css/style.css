@@ -22502,7 +22502,7 @@ a.active {
 }
 
 .bg-img {
-    background-image: url("../images/background/bg1.jpg");
+    background-image: url(../images/background/bg1.jpg);
 }
 
 
