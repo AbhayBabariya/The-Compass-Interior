@@ -22505,6 +22505,12 @@ a.active {
     background-image: url(../images/background/bg1.jpg);
 }
 
+.ashish-img {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* Static Whatsapp CSS */
 
